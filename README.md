@@ -2,7 +2,7 @@ Project X
 
 This Project is aimed on creating a jaaschool website.
 To:
-  Mac D
+  Mac D and
   Commander
 
 note:
